@@ -13,4 +13,5 @@ const Component1 = ({name}: Component1Props) => {
   )
 }
 
-export default Component1
+export default Component1;
+
